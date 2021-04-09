@@ -16,6 +16,6 @@
   "license": "MIT",
   "dependencies": {
     "sass": "^1.30.0",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
